@@ -1,3 +1,4 @@
+package week1.src;
 import java.util.Scanner;
 
 public class begroeting {

@@ -1,3 +1,5 @@
+package week1.src;
+
 import java.util.Scanner;
 public class Bewerkingen {
     public static void main(String[] args){

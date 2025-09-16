@@ -1,3 +1,5 @@
+package week1.src;
+
 import java.util.Random;
 
 public class randomclass {
