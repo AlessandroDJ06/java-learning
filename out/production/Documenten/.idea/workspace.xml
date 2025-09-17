@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="package toegevoegd">
-      <change afterPath="$PROJECT_DIR$/week1/src/BMIv2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/src/Sommeren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/src/SommerenUitbreiding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,18 +31,12 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="32n9IauojuGHJ7dKhP0qdPrdeuG" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BMIv2.executor": "Run",
-    "Application.Sommeren.executor": "Run",
-    "Application.SommerenUitbreiding.executor": "Run",
     "Application.Vakantie.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -87,7 +71,6 @@
       <workItem from="1758060203033" duration="6000" />
       <workItem from="1758060268037" duration="1904000" />
       <workItem from="1758091586092" duration="1658000" />
-      <workItem from="1758104603804" duration="3519000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
