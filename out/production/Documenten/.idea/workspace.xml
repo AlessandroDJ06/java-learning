@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="package toegevoegd">
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="commit 2">
+      <change afterPath="$PROJECT_DIR$/week1/src/Cowsay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/src/Middelste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/src/Reeksen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/src/StartToRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,27 +43,36 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="32n9IauojuGHJ7dKhP0qdPrdeuG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Vakantie.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/aless/OneDrive/Documenten/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BMIv2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cowsay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reeksen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sommeren.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SommerenUitbreiding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StartToRun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vakantie.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aless/OneDrive/Documenten/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,6 +92,12 @@
       <workItem from="1758060203033" duration="6000" />
       <workItem from="1758060268037" duration="1904000" />
       <workItem from="1758091586092" duration="1658000" />
+      <workItem from="1758104603804" duration="7382000" />
+      <workItem from="1758113149466" duration="1417000" />
+      <workItem from="1758181208548" duration="608000" />
+      <workItem from="1758184700047" duration="5000" />
+      <workItem from="1758200572386" duration="1184000" />
+      <workItem from="1758220777669" duration="452000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -104,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758062006237</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 2">
+      <option name="closed" value="true" />
+      <created>1758108162436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758108162436</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week1 oefeningen deel1" />
     <MESSAGE value="package toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="package toegevoegd" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
 </project>
