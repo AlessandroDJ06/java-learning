@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="commit 2">
-      <change afterPath="$PROJECT_DIR$/week1/src/Cowsay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/src/Middelste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/src/Reeksen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/src/StartToRun.java" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="commit3">
+      <change afterPath="$PROJECT_DIR$/week2/Belasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Investeringen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -25,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -54,11 +53,16 @@
   &quot;keyToString&quot;: {
     &quot;Application.BMIv2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Cowsay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Investeringen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Middelste.executor&quot;: &quot;Run&quot;,
     &quot;Application.Reeksen.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sommeren.executor&quot;: &quot;Run&quot;,
     &quot;Application.SommerenUitbreiding.executor&quot;: &quot;Run&quot;,
     &quot;Application.StartToRun.executor&quot;: &quot;Run&quot;,
     &quot;Application.Vakantie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kassa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tafels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tafels2.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -97,7 +101,9 @@
       <workItem from="1758181208548" duration="608000" />
       <workItem from="1758184700047" duration="5000" />
       <workItem from="1758200572386" duration="1184000" />
-      <workItem from="1758220777669" duration="452000" />
+      <workItem from="1758220777669" duration="8631000" />
+      <workItem from="1758271313482" duration="10613000" />
+      <workItem from="1758544439149" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -139,7 +145,31 @@
       <option name="project" value="LOCAL" />
       <updated>1758108162436</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit3">
+      <option name="closed" value="true" />
+      <created>1758221932915</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1758221932915</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit3">
+      <option name="closed" value="true" />
+      <created>1758231242963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758231242963</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit3">
+      <option name="closed" value="true" />
+      <created>1758231264354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758231264354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +179,7 @@
     <MESSAGE value="week1 oefeningen deel1" />
     <MESSAGE value="package toegevoegd" />
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
   </component>
 </project>

@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="commit3">
-      <change afterPath="$PROJECT_DIR$/week1/src/kassa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/src/tafels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/src/tafels2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Belasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Calorieen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Investeringen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Verbruik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/src/Middelste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/week1/src/Middelste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -52,7 +54,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BMIv2.executor": "Run",
+    "Application.Belasting.executor": "Run",
+    "Application.Calorieen.executor": "Run",
     "Application.Cowsay.executor": "Run",
+    "Application.Investeringen.executor": "Run",
     "Application.Middelste.executor": "Run",
     "Application.Reeksen.executor": "Run",
     "Application.Sommeren.executor": "Run",
@@ -100,7 +105,9 @@
       <workItem from="1758181208548" duration="608000" />
       <workItem from="1758184700047" duration="5000" />
       <workItem from="1758200572386" duration="1184000" />
-      <workItem from="1758220777669" duration="8361000" />
+      <workItem from="1758220777669" duration="8631000" />
+      <workItem from="1758271313482" duration="10613000" />
+      <workItem from="1758544439149" duration="4265000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -150,7 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1758221932915</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit3">
+      <option name="closed" value="true" />
+      <created>1758231242963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758231242963</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit3">
+      <option name="closed" value="true" />
+      <created>1758231264354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758231264354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
