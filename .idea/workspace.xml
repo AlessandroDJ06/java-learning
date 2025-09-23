@@ -4,34 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week2 commit3">
-      <change beforePath="$PROJECT_DIR$/week1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/.idea/IntelliLang.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/BMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/BMIv2.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/BMIv2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Bewerkingen.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Bewerkingen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Cowsay.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Cowsay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Leeftijd.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Leeftijd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Middelste.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Middelste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Pytagoras.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Pytagoras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Reeksen.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Reeksen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Sommeren.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Sommeren.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/SommerenUitbreiding.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/SommerenUitbreiding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/StartToRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/StartToRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/Vakantie.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Vakantie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/bankcalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/bankcalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/begroeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/begroeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/kassa.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/kassa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/product.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/randomclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/randomclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/tafels.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/tafels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/src/tafels2.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/tafels2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/untitled.iml" beforeDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week1 refactor">
+      <change afterPath="$PROJECT_DIR$/week2/UitdagingWeek2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +62,7 @@
     "Application.Sommeren.executor": "Run",
     "Application.SommerenUitbreiding.executor": "Run",
     "Application.StartToRun.executor": "Run",
+    "Application.UitdagingWeek2.executor": "Run",
     "Application.Unicode.executor": "Run",
     "Application.Vakantie.executor": "Run",
     "Application.Verbruik.executor": "Run",
@@ -106,9 +82,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="week1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -135,7 +117,7 @@
       <workItem from="1758200572386" duration="1184000" />
       <workItem from="1758220777669" duration="8631000" />
       <workItem from="1758271313482" duration="10613000" />
-      <workItem from="1758544439149" duration="12616000" />
+      <workItem from="1758544439149" duration="22260000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -225,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758565631441</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="week1 refactor">
+      <option name="closed" value="true" />
+      <created>1758566039818</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758566039818</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +228,7 @@
     <MESSAGE value="commit3" />
     <MESSAGE value="week2 commit2" />
     <MESSAGE value="week2 commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="week2 commit3" />
+    <MESSAGE value="week1 refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="week1 refactor" />
   </component>
 </project>
