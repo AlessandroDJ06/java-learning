@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week1 refactor">
-      <change afterPath="$PROJECT_DIR$/week2/UitdagingWeek2.java" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="uitdagingweek2 commit">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Codering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Korting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Onleesbarecode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Schrikkeljaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/Talstelsels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/IntelliLang.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +67,15 @@
     "Application.BMIv2.executor": "Run",
     "Application.Belasting.executor": "Run",
     "Application.Calorieen.executor": "Run",
+    "Application.Codering.executor": "Run",
     "Application.Cowsay.executor": "Run",
     "Application.Investeringen.executor": "Run",
+    "Application.Korting.executor": "Run",
     "Application.Middelste.executor": "Run",
+    "Application.Onleesbarecode.executor": "Run",
     "Application.Reeksen.executor": "Run",
+    "Application.Schrikkeljaar.executor": "Run",
+    "Application.SimpleQRCode.executor": "Run",
     "Application.Sommeren.executor": "Run",
     "Application.SommerenUitbreiding.executor": "Run",
     "Application.StartToRun.executor": "Run",
@@ -74,7 +91,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/aless/OneDrive/Documenten/java",
     "node.js.detected.package.eslint": "true",
@@ -82,7 +101,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "discord-application",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -117,7 +136,13 @@
       <workItem from="1758200572386" duration="1184000" />
       <workItem from="1758220777669" duration="8631000" />
       <workItem from="1758271313482" duration="10613000" />
-      <workItem from="1758544439149" duration="22260000" />
+      <workItem from="1758544439149" duration="24415000" />
+      <workItem from="1758633263479" duration="567000" />
+      <workItem from="1758639768914" duration="8210000" />
+      <workItem from="1758699159541" duration="14366000" />
+      <workItem from="1758818661211" duration="170000" />
+      <workItem from="1758818851393" duration="1449000" />
+      <workItem from="1758833789482" duration="3711000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -215,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758566039818</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="uitdagingweek2 commit">
+      <option name="closed" value="true" />
+      <created>1758626997442</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1758626997442</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +262,7 @@
     <MESSAGE value="week2 commit2" />
     <MESSAGE value="week2 commit3" />
     <MESSAGE value="week1 refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="week1 refactor" />
+    <MESSAGE value="uitdagingweek2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="uitdagingweek2 commit" />
   </component>
 </project>

@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="commit3">
-      <change afterPath="$PROJECT_DIR$/week2/Belasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/Investeringen.java" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="uitdagingweek2 commit">
+      <change afterPath="$PROJECT_DIR$/week2/Onleesbarecode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/IntelliLang.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,34 +54,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BMIv2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cowsay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Investeringen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Middelste.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reeksen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sommeren.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SommerenUitbreiding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StartToRun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Vakantie.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kassa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tafels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tafels2.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aless/OneDrive/Documenten/java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Asciitabel.executor": "Run",
+    "Application.Asciitabel_uitbreiding.executor": "Run",
+    "Application.Autocorrect.executor": "Run",
+    "Application.BMIv2.executor": "Run",
+    "Application.Belasting.executor": "Run",
+    "Application.Calorieen.executor": "Run",
+    "Application.Cowsay.executor": "Run",
+    "Application.Investeringen.executor": "Run",
+    "Application.Middelste.executor": "Run",
+    "Application.Onleesbarecode.executor": "Run",
+    "Application.Reeksen.executor": "Run",
+    "Application.SimpleQRCode.executor": "Run",
+    "Application.Sommeren.executor": "Run",
+    "Application.SommerenUitbreiding.executor": "Run",
+    "Application.StartToRun.executor": "Run",
+    "Application.UitdagingWeek2.executor": "Run",
+    "Application.Unicode.executor": "Run",
+    "Application.Vakantie.executor": "Run",
+    "Application.Verbruik.executor": "Run",
+    "Application.bankcalculator.executor": "Run",
+    "Application.kassa.executor": "Run",
+    "Application.tafels.executor": "Run",
+    "Application.tafels2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aless/OneDrive/Documenten/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="week1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,7 +126,10 @@
       <workItem from="1758200572386" duration="1184000" />
       <workItem from="1758220777669" duration="8631000" />
       <workItem from="1758271313482" duration="10613000" />
-      <workItem from="1758544439149" duration="797000" />
+      <workItem from="1758544439149" duration="24415000" />
+      <workItem from="1758633263479" duration="567000" />
+      <workItem from="1758639768914" duration="8210000" />
+      <workItem from="1758699159541" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -169,7 +195,47 @@
       <option name="project" value="LOCAL" />
       <updated>1758231264354</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="week2 commit2">
+      <option name="closed" value="true" />
+      <created>1758552113564</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758552113564</updated>
+    </task>
+    <task id="LOCAL-00010" summary="week2 commit3">
+      <option name="closed" value="true" />
+      <created>1758565621279</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758565621279</updated>
+    </task>
+    <task id="LOCAL-00011" summary="week2 commit3">
+      <option name="closed" value="true" />
+      <created>1758565631441</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758565631441</updated>
+    </task>
+    <task id="LOCAL-00012" summary="week1 refactor">
+      <option name="closed" value="true" />
+      <created>1758566039818</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758566039818</updated>
+    </task>
+    <task id="LOCAL-00013" summary="uitdagingweek2 commit">
+      <option name="closed" value="true" />
+      <created>1758626997442</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1758626997442</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +246,10 @@
     <MESSAGE value="package toegevoegd" />
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
+    <MESSAGE value="week2 commit2" />
+    <MESSAGE value="week2 commit3" />
+    <MESSAGE value="week1 refactor" />
+    <MESSAGE value="uitdagingweek2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="uitdagingweek2 commit" />
   </component>
 </project>
