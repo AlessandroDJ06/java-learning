@@ -1,6 +1,6 @@
 package week3;
 import java.util.Scanner;
-import java.util.Arrays;
+
 
 public class AutoCorrectVervolg {
 
@@ -33,11 +33,23 @@ public class AutoCorrectVervolg {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String[] woordenLijst = {
-                "appel","fiets","computer","tafel","regen","berg",
-                "vliegtuig","boek","water","stoel","lamp","auto",
-                "hond","kat","bloem","ijs","school","zee","vriend","telefoon"
-        };
+
+        String[] woordenLijst = {"bier", "water", "kebab", "hamburger", "fiets", "auto", "huis", "boom", "computer", "boek", "stoel", "tafel", "deur", "raam",
+                "lamp", "telefoon", "water", "lucht", "zon", "maan", "ster", "neger", "wind", "berg",
+                "zee", "strand", "bloem", "gras", "dier", "kat", "hond", "paard", "vogel", "vis",
+                "mens", "kind", "vriend", "school", "werk", "spel", "muziek", "film", "theater", "schip",
+                "brug", "straat", "plein", "winkel", "markt", "stad", "dorp", "land", "wereld", "taal",
+                "woord", "zin", "boek", "blad", "bladzijde", "schrift", "pen", "potlood", "gum", "papier",
+                "computer", "programma", "applicatie", "code", "website", "internet", "server", "database",
+                "netwerk", "bestand", "map", "schijf", "scherm", "beeld", "kleur", "vorm", "lijn", "vlak",
+                "cirkel", "vierkant", "driehoek", "punt", "hoek", "kant", "zijde", "breedte", "lengte", "hoogte",
+                "gewicht", "maat", "getal", "nummer", "tijd", "uur", "minuut", "seconde", "dag", "week",
+                "maand", "jaar", "seizoen", "voorjaar", "zomer", "herfst", "winter", "morgen", "avond", "nacht",
+                "eten", "drinken", "brood", "kaas", "melk", "water", "koffie", "thee", "fruit", "appel",
+                "banaan", "peer", "sinaasappel", "druif", "citroen", "groente", "wortel", "tomaat", "sla",
+                "komkommer", "aardappel", "rijst", "pasta", "vlees", "vis", "ei", "soep", "salade", "taart",
+                "koek", "ijs", "chocolade", "snoep", "suiker", "zout", "peper", "olie", "boter", "azijn","nazi"};
+
 
         System.out.print("Geef een woord: ");
         String input = scanner.nextLine();

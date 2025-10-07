@@ -1,4 +1,4 @@
-package ExtraUitdaging;
+package week4;
 import  java.util.Scanner;
 
 public class Palindroom {
