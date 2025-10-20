@@ -4,77 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="extra uitdaging">
-      <change afterPath="$PROJECT_DIR$/ExtraUitdaging/BlackJack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/BierVat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/Btw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/Dobbelsteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/GetallenFormatteren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/SpelenMetStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/Statistiek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/VanRechtsNaarLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/player.java" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week4 oefenigen">
+      <change afterPath="$PROJECT_DIR$/ExtraUitdaging/BasicCalculatorAWT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtraUitdaging/Cool3DCube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtraUitdaging/Cube3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtraUitdaging/HelloWorld3DRealistic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/uitdagingWeek4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Bank/DemoBankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/GrafischeRekenmachine/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Kotbaas/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Kotbaas/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Kotbaas/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Verhuisfirma/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Verhuisfirma/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Verkopers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Verkopers/SalesPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/bibliotheek/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/bibliotheek/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/week5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtraUitdaging/Palindroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/week4/Palindroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/Documenten.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/ExtraUitdaging/Palindroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/BMI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/BMIv2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Bewerkingen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Cowsay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Leeftijd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Middelste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Pytagoras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Reeksen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Sommeren.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/SommerenUitbreiding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/StartToRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/Vakantie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/bankcalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/begroeting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/kassa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/randomclass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/tafels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week1/tafels2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Asciitabel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Asciitabel_uitbreiding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Autocorrect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Belasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Calorieen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Codering.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Investeringen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Korting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Onleesbarecode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Schrikkeljaar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Talstelsels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/UitdagingWeek2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Unicode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week2/Verbruik.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Afronden.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/AutoCorrectVervolg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/DagVanDeWeek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/DagVanDeWeek2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Dobbelsteen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Kerstbomen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Konijnen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Morse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Ranschikken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Sinus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Sparen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/UitdagingWeek3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Validatie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/week3/Wachtwoorden.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/AutoCorrectVervolg.java" beforeDir="false" afterPath="$PROJECT_DIR$/week3/AutoCorrectVervolg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,19 +74,31 @@
     "Application.AutoCorrectVervolg.executor": "Run",
     "Application.Autocorrect.executor": "Run",
     "Application.BMIv2.executor": "Run",
+    "Application.BasicCalculatorAWT.executor": "Run",
     "Application.Belasting.executor": "Run",
     "Application.BierVat.executor": "Run",
     "Application.BlackJack.executor": "Run",
     "Application.Btw.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.Calorieen.executor": "Run",
+    "Application.Cool3DCube.executor": "Run",
     "Application.Cowsay.executor": "Run",
+    "Application.Cube3D.executor": "Run",
+    "Application.DemoBankAccount.executor": "Run",
     "Application.Dobbelsteen.executor": "Run",
     "Application.GetallenFormatteren.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HelloWorld3D.executor": "Run",
+    "Application.HelloWorld3DRealistic.executor": "Run",
     "Application.Investeringen.executor": "Run",
+    "Application.Korting.executor": "Run",
     "Application.Lamp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
     "Application.Middelste.executor": "Run",
     "Application.Palindroom.executor": "Run",
     "Application.Reeksen.executor": "Run",
+    "Application.Sinus.executor": "Run",
     "Application.Sommeren.executor": "Run",
     "Application.SommerenUitbreiding.executor": "Run",
     "Application.SpelenMetStrings.executor": "Run",
@@ -148,6 +111,7 @@
     "Application.Verbruik.executor": "Run",
     "Application.Wachtwoorden.executor": "Run",
     "Application.bankcalculator.executor": "Run",
+    "Application.bibliotheek.executor": "Run",
     "Application.defAuto.executor": "Run",
     "Application.getallenFormatteren.executor": "Run",
     "Application.kassa.executor": "Run",
@@ -159,6 +123,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/aless/OneDrive/Documenten/java",
@@ -167,9 +132,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/aless/IdeaProjects/java-learning/src/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aless\IdeaProjects\java-learning\week5\src" />
+      <recent name="C:\Users\aless\IdeaProjects\java-learning\week5\biblotheek" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -211,6 +183,25 @@
       <workItem from="1759753768271" duration="19661000" />
       <workItem from="1759838755424" duration="4000" />
       <workItem from="1759838791804" duration="1484000" />
+      <workItem from="1759860011581" duration="1236000" />
+      <workItem from="1759865657238" duration="3182000" />
+      <workItem from="1759903203879" duration="71000" />
+      <workItem from="1759919391455" duration="589000" />
+      <workItem from="1759920445659" duration="378000" />
+      <workItem from="1759925128828" duration="25000" />
+      <workItem from="1759925957398" duration="861000" />
+      <workItem from="1759955262277" duration="722000" />
+      <workItem from="1759994636759" duration="6000" />
+      <workItem from="1760192802892" duration="3659000" />
+      <workItem from="1760198411561" duration="201000" />
+      <workItem from="1760198636905" duration="68000" />
+      <workItem from="1760202704695" duration="2124000" />
+      <workItem from="1760359734778" duration="6323000" />
+      <workItem from="1760387756338" duration="3796000" />
+      <workItem from="1760447498321" duration="13000" />
+      <workItem from="1760470375517" duration="1575000" />
+      <workItem from="1760481415601" duration="1664000" />
+      <workItem from="1760507697109" duration="6538000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -316,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759320366481</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="week4 oefenigen">
+      <option name="closed" value="true" />
+      <created>1759860687692</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759860687692</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +341,8 @@
     <MESSAGE value="week2 commit3" />
     <MESSAGE value="uitbreiding week3" />
     <MESSAGE value="extra uitdaging" />
-    <option name="LAST_COMMIT_MESSAGE" value="extra uitdaging" />
+    <MESSAGE value="week4 oefenigen" />
+    <option name="LAST_COMMIT_MESSAGE" value="week4 oefenigen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -361,6 +361,11 @@
           <url>file://$PROJECT_DIR$/week4/BierVat.java</url>
           <line>29</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
