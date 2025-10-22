@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week6 oefeningen">
-      <change afterPath="$PROJECT_DIR$/week5/src/Tekenprogamma/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/src/Tekenprogamma/Rectangle.java" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week5 laatste oefening">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/player.java" beforeDir="false" afterPath="$PROJECT_DIR$/week4/player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +190,11 @@
       <workItem from="1760895916132" duration="2588000" />
       <workItem from="1760963697155" duration="9398000" />
       <workItem from="1760983326980" duration="5173000" />
-      <workItem from="1761064648818" duration="2256000" />
+      <workItem from="1761064648818" duration="5454000" />
+      <workItem from="1761084771810" duration="1002000" />
+      <workItem from="1761129242832" duration="619000" />
+      <workItem from="1761130109098" duration="92000" />
+      <workItem from="1761159597920" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -321,7 +324,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760987699353</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="week5 laatste oefening">
+      <option name="closed" value="true" />
+      <created>1761073346171</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1761073346171</updated>
+    </task>
+    <task id="LOCAL-00018" summary="week5 laatste oefening">
+      <option name="closed" value="true" />
+      <created>1761073352968</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1761073352968</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +369,8 @@
     <MESSAGE value="week4 oefenigen" />
     <MESSAGE value="week 5 oefeningen zonder laatste" />
     <MESSAGE value="week6 oefeningen" />
-    <option name="LAST_COMMIT_MESSAGE" value="week6 oefeningen" />
+    <MESSAGE value="week5 laatste oefening" />
+    <option name="LAST_COMMIT_MESSAGE" value="week5 laatste oefening" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
