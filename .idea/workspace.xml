@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week5 laatste oefening">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/player.java" beforeDir="false" afterPath="$PROJECT_DIR$/week4/player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +193,8 @@
       <workItem from="1761084771810" duration="1002000" />
       <workItem from="1761129242832" duration="619000" />
       <workItem from="1761130109098" duration="92000" />
-      <workItem from="1761159597920" duration="972000" />
+      <workItem from="1761159597920" duration="2720000" />
+      <workItem from="1761213506936" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
