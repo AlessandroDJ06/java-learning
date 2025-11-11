@@ -1,4 +1,9 @@
 package polymorphism;
 
-public class Boat {
+public class Boat extends Vehicle{
+
+    @Override
+    public void go(){
+        System.out.println(" boat moving");
+    }
 }

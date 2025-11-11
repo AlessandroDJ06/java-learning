@@ -16,6 +16,7 @@ public class Main {
 
         System.out.println(player1 + " win? " + player1.play());
         System.out.println(player2 + " win? " + player2.play());
+        System.out.println(player1);
 
         if(player1.play(player2)){
             System.out.println(player1 + " wins!");

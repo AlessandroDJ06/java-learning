@@ -78,7 +78,7 @@ public class Player {
 
     public String toString() {
         return this.name + " (" + (this.CURRENTYEAR - this.birthYear) + ": Winratio: " + this.winRatio +" " + ((this.retired)? "retired":"active" + ")");
-    }
+     }
 
     public boolean play(){
         return this.winRatio > random.nextDouble(0,1);
