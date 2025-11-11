@@ -4,54 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week5 laatste oefening">
-      <change afterPath="$PROJECT_DIR$/week6/src/Schaken/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/DriehoekVanPascal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/Films/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/Films/MovieCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/Films/TestMovieCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/FlexibeleLijst/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/FlexibeleLijst/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/KaartSpelletjes/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/KaartSpelletjes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/Letterfrequenties/CharacterFrequencies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/Letterfrequenties/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/MondelingeExamens/Schedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/MondelingeExamens/TestExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/MondelingeExamens/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/Opwarmertje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/RekenenMetMatrices/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/RekenenMetMatrices/Vermenigvuldiging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/WoordLengtes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/ZoekeEnTellen/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/src/ZoekeEnTellen/TestGetallenZoeken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/week7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/inheritence/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/inheritence/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/inheritence/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/inheritence/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/multidimensionArrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/oef1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/oef1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/oef1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/oef1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/oef2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/oef2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/oef2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/oef2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/polymorphism/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/polymorphism/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/polymorphism/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/src/polymorphism/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zelfstudie/zelfstudie.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week6">
+      <change afterPath="$PROJECT_DIR$/week7/src/Beeldscherm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week7/src/Beeldscherm/Screen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week6/Schaken/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week6/Schaken/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week6/StudentencijferEvaluator/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week6/StudentencijferEvaluator/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6/src/Schaken/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week6/src/Schaken/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week6/src/Schaken/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/week6/src/Schaken/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week7/src/DriehoekVanPascal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week7/src/DriehoekVanPascal/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +224,7 @@
       <workItem from="1762617353643" duration="6627000" />
       <workItem from="1762631606077" duration="637000" />
       <workItem from="1762781671657" duration="9629000" />
-      <workItem from="1762860438772" duration="24016000" />
+      <workItem from="1762860438772" duration="27734000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -413,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761073352968</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="week6">
+      <option name="closed" value="true" />
+      <created>1762888686699</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1762888686699</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +408,8 @@
     <MESSAGE value="week 5 oefeningen zonder laatste" />
     <MESSAGE value="week6 oefeningen" />
     <MESSAGE value="week5 laatste oefening" />
-    <option name="LAST_COMMIT_MESSAGE" value="week5 laatste oefening" />
+    <MESSAGE value="week6" />
+    <option name="LAST_COMMIT_MESSAGE" value="week6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
