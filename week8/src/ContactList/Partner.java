@@ -1,9 +1,9 @@
-package Contacten;
+package ContactList;
 
-public class Partner extends Contact{
+public class Partner extends Contact {
     private String companyNumber;
 
-    public Partner(String name, ContactData contactData,String companyNumber){
+    public Partner(String name, ContactData contactData, String companyNumber){
         super(name,contactData);
         this.companyNumber = companyNumber;
     }

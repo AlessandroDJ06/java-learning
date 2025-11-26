@@ -1,10 +1,10 @@
-package Contacten;
+package ContactList;
 
 public class Contact {
     private String name;
     private ContactData contactData;
 
-    public Contact(String name,ContactData contactData){
+    public Contact(String name, ContactData contactData){
         this.name = name;
         this.contactData = contactData;
     }

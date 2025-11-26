@@ -1,9 +1,9 @@
-package Contacten;
+package ContactList;
 
-public class Customer extends Contact{
+public class Customer extends Contact {
     private int id;
 
-    public Customer(String name,ContactData contactData, int id){
+    public Customer(String name, ContactData contactData, int id){
         super(name, contactData);
         this.id = id;
     }

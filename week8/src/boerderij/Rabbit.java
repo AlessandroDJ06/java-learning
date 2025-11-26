@@ -1,6 +1,6 @@
-package Boerderijdieren;
+package boerderij;
 
-public class Rabbit extends FarmAnimal{
+public class Rabbit extends FarmAnimal {
     private boolean likesDigging;
 
     public Rabbit(String name, boolean likesDigging){

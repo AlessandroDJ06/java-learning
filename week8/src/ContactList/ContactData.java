@@ -1,4 +1,4 @@
-package Contacten;
+package ContactList;
 
 public class ContactData {
     private final int MAX_PHONE_NUMBERS = 5;

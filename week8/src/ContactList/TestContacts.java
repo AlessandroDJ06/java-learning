@@ -1,4 +1,4 @@
-package Contacten;
+package ContactList;
 
 public class TestContacts {
     public static void main(String[] args) {
@@ -21,10 +21,22 @@ public class TestContacts {
         contactData.addPhoneNumber(new PhoneNumber(Kind.MOBILE, "0433/33.55.78"));
         Partner raf = new Partner("Raf Ghazi", contactData, "BE87986469");
 
-        System.out.println(bianca);
-        System.out.println(genesis);
-        System.out.println(robin);
-        System.out.println(lucca);
-        System.out.println(raf);
+        Contacts list = new Contacts();
+
+        list.addContact(bianca);
+        list.addContact(genesis);
+        list.addContact(robin);
+        list.addContact(lucca);
+        list.addContact(raf);
+
+        list.removeContact(1);
+        list.removeContact(0);
+        list.removeContact(4);
+
+        for (int i = 0; i < list.getAmount();i++){
+            System.out.println(list.getContact(i));
+        }
+
+
     }
 }

@@ -1,11 +1,11 @@
 package Oxo;
 
-public class Board {
+public class Bord {
     private char[][] bord;
     private final int WIDTH = 7;
     private final int HEIGHT = 7;
 
-    public Board() {
+    public Bord() {
         this.bord = new char[HEIGHT][WIDTH];
     }
 
@@ -81,6 +81,10 @@ public class Board {
             System.out.println("Positie is al bezet!");
         }
     }
+
+
+
+
 
 }
 

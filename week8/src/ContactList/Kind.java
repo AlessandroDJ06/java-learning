@@ -1,4 +1,4 @@
-package Contacten;
+package ContactList;
 
 public enum Kind {
     FIXED,MOBILE

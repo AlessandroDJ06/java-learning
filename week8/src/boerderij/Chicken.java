@@ -1,6 +1,6 @@
-package Boerderijdieren;
+package boerderij;
 
-public class Chicken extends FarmAnimal{
+public class Chicken extends FarmAnimal {
     private int eggsPerWeek;
 
     public Chicken(String name, int eggsPerWeek){

@@ -1,6 +1,6 @@
-package Boerderijdieren;
+package boerderij;
 
-public class Cow extends FarmAnimal{
+public class Cow extends FarmAnimal {
     private double literMilkPerDay;
 
     public Cow(String name,double literMilkPerDay){

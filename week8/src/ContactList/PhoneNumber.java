@@ -1,4 +1,4 @@
-package Contacten;
+package ContactList;
 
 public class PhoneNumber {
     private String number;

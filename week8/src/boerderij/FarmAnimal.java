@@ -1,4 +1,4 @@
-package Boerderijdieren;
+package boerderij;
 
 public class FarmAnimal {
     private String name;

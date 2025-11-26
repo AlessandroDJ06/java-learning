@@ -1,4 +1,4 @@
-package Boerderijdieren;
+package boerderij;
 
 public class Main {
     public static void main(String[] args) {
