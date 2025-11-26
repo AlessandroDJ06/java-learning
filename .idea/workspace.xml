@@ -5,63 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week6">
-      <change afterPath="$PROJECT_DIR$/lesOefeningen/src/polymorfisme/Docent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesOefeningen/src/polymorfisme/Persoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesOefeningen/src/polymorfisme/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ContactList/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ContactList/ContactData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ContactList/Contacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ContactList/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ContactList/Kind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ContactList/Partner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ContactList/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ContactList/TestContacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/Contacten/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/Contacten/Kind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/Contacten/Partner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/Contacten/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/Contacten/TestContacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/LijstVanObjecten/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/LijstVanObjecten/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ModelBouwClub/BoardMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ModelBouwClub/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ModelBouwClub/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ModelBouwClub/NormalMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ObjectenVergelijken/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ObjectenVergelijken/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/ObjectenVergelijken/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/boerderij/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/boerderij/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/boerderij/Farm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/boerderij/FarmAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/boerderij/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/boerderij/Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8/src/boerderij/TestFarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8/src/LijstVanObjecten/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesOefeningen/src/Oefening1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesOefeningen/src/Oefening1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesOefeningen/src/Oefening2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesOefeningen/src/Oefening2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week7/Beeldscherm/Screen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week7/Beeldscherm/Screen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/src/Oxo/Bord.java" beforeDir="false" afterPath="$PROJECT_DIR$/week7/src/Oxo/Bord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7/src/Oxo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week7/src/Oxo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Boerderijdieren/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Boerderijdieren/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Boerderijdieren/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Boerderijdieren/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Boerderijdieren/FarmAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Boerderijdieren/FarmAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Boerderijdieren/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Boerderijdieren/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Boerderijdieren/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Boerderijdieren/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Contacten/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Contacten/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Contacten/ContactData.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Contacten/ContactData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Model/Adress.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Model/Adress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Model/BodyMeasures.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Model/BodyMeasures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Model/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Model/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/Model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/Model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/printer/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/printer/Cube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/printer/Cuboid.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/printer/Cuboid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/printer/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/printer/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/printer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/printer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/printer/PrimitiveObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/printer/PrimitiveObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/src/printer/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/printer/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week8/src/LijstVanObjecten/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/LijstVanObjecten/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week8/src/LijstVanObjecten/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/week8/src/LijstVanObjecten/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +247,7 @@
       <workItem from="1764081076752" duration="11000" />
       <workItem from="1764081213997" duration="1713000" />
       <workItem from="1764125174240" duration="3852000" />
-      <workItem from="1764149863027" duration="1099000" />
+      <workItem from="1764149863027" duration="3536000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -514,6 +461,11 @@
           <url>file://$PROJECT_DIR$/week8/src/ContactList/Contacts.java</url>
           <line>41</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/week8/src/LijstVanObjecten/List.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/week8/src/printer/PrimitiveObject.java</url>
