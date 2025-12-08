@@ -8,10 +8,14 @@ public class Bus extends MeansOfTransport{
 
     @Override
     public String travelDistance(double distance){
-        return "afgelegde afstand is: " + (int)(distance*10)/super.getSpeed();
+        StringBuilder sb = new StringBuilder();
+
+        for (int i = 0; i < (int)(distance*10)/super.getSpeed(); i++) {
+            sb.append("vroem-");
+        }
+        sb.append("vroem");
+        return sb.toString() ;
     }
 
-    public String toString(){
-        return
-    }
+
 }

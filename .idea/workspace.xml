@@ -5,38 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week6">
-      <change afterPath="$PROJECT_DIR$/lesOefeningen/src/EmplyeeList/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesOefeningen/src/EmplyeeList/EmployeeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesOefeningen/src/EmplyeeList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Aardrijkskunde/Continent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Aardrijkskunde/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Kaartspelletjes2/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Kaartspelletjes2/CardValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Kaartspelletjes2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Kaartspelletjes2/Suit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Laptops/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Laptops/CpuGeneration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Laptops/CpuType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Laptops/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Laptops/Laptops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Laptops/TestLaptops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Fiets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/MeansOfTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Step.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/TeVoet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Tram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Trein.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Voetbalclub/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Voetbalclub/MemberType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Voetbalclub/Members.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Voetbalclub/TestMembers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Werknemers/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Werknemers/HourlyWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Werknemers/SalariedEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Werknemers/TestEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode/src/Day1/NorthPoleSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode/src/Day1/NorthPoleSafeSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode/src/Day1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesOefeningen/src/sort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/LaysEggs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Ostrich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Swallow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/TestAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/FigureSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/HasBorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/HasSurface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/HasVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/Leeftijd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/VrijdagDeDertiende.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/Wapenstilstand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Alive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/NonPlayableCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Visible.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Fiets.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Fiets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Step.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Step.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/TeVoet.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/TeVoet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Tram.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Tram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Trein.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Trein.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +62,7 @@
       <list>
         <option value="package-info" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -97,6 +112,7 @@
     "Application.Cool3DCube.executor": "Run",
     "Application.Cowsay.executor": "Run",
     "Application.Cube3D.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.DemoBankAccount.executor": "Run",
     "Application.Dobbelsteen.executor": "Run",
     "Application.GetallenFormatteren.executor": "Run",
@@ -106,10 +122,13 @@
     "Application.Investeringen.executor": "Run",
     "Application.Korting.executor": "Run",
     "Application.Lamp.executor": "Run",
+    "Application.Leeftijd.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main2.executor": "Run",
     "Application.Matrix.executor": "Run",
     "Application.Middelste.executor": "Run",
+    "Application.NorthPoleSafe.executor": "Run",
+    "Application.NorthPoleSafeSecond.executor": "Run",
     "Application.Oefening1.executor": "Run",
     "Application.Oefening2.executor": "Run",
     "Application.Opwarmertje.executor": "Run",
@@ -124,6 +143,7 @@
     "Application.Test.executor": "Run",
     "Application.Test1.executor": "Run",
     "Application.Test2.executor": "Run",
+    "Application.TestAnimals.executor": "Run",
     "Application.TestContacts.executor": "Run",
     "Application.TestEmployees.executor": "Run",
     "Application.TestExam.executor": "Run",
@@ -138,7 +158,9 @@
     "Application.VanRechtsNaarLinks.executor": "Run",
     "Application.Verbruik.executor": "Run",
     "Application.Vermenigvuldiging.executor": "Run",
+    "Application.VrijdagDeDertiende.executor": "Run",
     "Application.Wachtwoorden.executor": "Run",
+    "Application.Wapenstilstand.executor": "Run",
     "Application.WoordLengtes.executor": "Run",
     "Application.bankcalculator.executor": "Run",
     "Application.bibliotheek.executor": "Run",
@@ -167,10 +189,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/aless/IdeaProjects/java-learning/week8/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/aless/IdeaProjects/java-learning/AdventOfCode/src/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
@@ -287,6 +309,11 @@
       <workItem from="1764581475167" duration="1521000" />
       <workItem from="1764589376395" duration="1137000" />
       <workItem from="1764590570809" duration="9558000" />
+      <workItem from="1764625967017" duration="2653000" />
+      <workItem from="1764678930959" duration="167000" />
+      <workItem from="1764919755432" duration="7035000" />
+      <workItem from="1765131546137" duration="2216000" />
+      <workItem from="1765185053115" duration="9334000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -505,6 +532,16 @@
           <url>file://$PROJECT_DIR$/week8/src/LijstVanObjecten/List.java</url>
           <line>41</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/week9/src/Transportmiddelen/Bus.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/week9/src/Dierenrijk/Animals.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/week8/src/printer/PrimitiveObject.java</url>
