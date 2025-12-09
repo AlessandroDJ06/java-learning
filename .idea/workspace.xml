@@ -5,52 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week6">
-      <change afterPath="$PROJECT_DIR$/AdventOfCode/src/Day1/NorthPoleSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode/src/Day1/NorthPoleSafeSecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode/src/Day1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesOefeningen/src/sort/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/CanFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/LaysEggs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Ostrich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/Swallow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Dierenrijk/TestAnimals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/FigureSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/HasBorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/HasSurface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/HasVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/EenMooiFiguur/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/Leeftijd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/VrijdagDeDertiende.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/Wapenstilstand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Alive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/NonPlayableCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/VirtualReality/Visible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/Bioritme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/Ramadan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Vervaldatums/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Vervaldatums/Breads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Vervaldatums/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/src/Vervaldatums/Variety.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Fiets.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Fiets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Step.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Step.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/TeVoet.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/TeVoet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Tram.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Tram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week9/src/Transportmiddelen/Trein.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Transportmiddelen/Trein.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -105,6 +66,7 @@
     "Application.BasicCalculatorAWT.executor": "Run",
     "Application.Belasting.executor": "Run",
     "Application.BierVat.executor": "Run",
+    "Application.Bioritme.executor": "Run",
     "Application.BlackJack.executor": "Run",
     "Application.Btw.executor": "Run",
     "Application.Calculator.executor": "Run",
@@ -133,6 +95,7 @@
     "Application.Oefening2.executor": "Run",
     "Application.Opwarmertje.executor": "Run",
     "Application.Palindroom.executor": "Run",
+    "Application.Ramadan.executor": "Run",
     "Application.Reeksen.executor": "Run",
     "Application.Sinus.executor": "Run",
     "Application.Sommeren.executor": "Run",
@@ -313,7 +276,8 @@
       <workItem from="1764678930959" duration="167000" />
       <workItem from="1764919755432" duration="7035000" />
       <workItem from="1765131546137" duration="2216000" />
-      <workItem from="1765185053115" duration="9334000" />
+      <workItem from="1765185053115" duration="13134000" />
+      <workItem from="1765269025876" duration="3900000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
