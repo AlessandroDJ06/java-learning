@@ -1,3 +1,5 @@
+package LottoGetallen;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -24,7 +26,15 @@ public class Lottogetallen {
          }
      }
 
-     public String 
+     public String showLottoNumbers(){
+        StringBuilder sb =  new StringBuilder();
+
+         for (int i = 0; i < lottoNumbers.length; i++) {
+             sb.append(lottoNumbers[i]).append(" ");
+         }
+
+         return sb.toString();
+     }
 
 
 }

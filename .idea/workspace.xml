@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week6">
-      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/Bioritme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Leeftijd/Ramadan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Vervaldatums/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Vervaldatums/Breads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Vervaldatums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week9/src/Vervaldatums/Variety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Acteur/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Acteur/TestActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Drankenlijst/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Drankenlijst/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Drankenlijst/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/LottoGetallen/Lottogetallen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/LottoGetallen/TestLotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/TodoList/TestTodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/TodoList/TodoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/TodoList/TodoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Verjaardagen/Birthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Verjaardagen/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Verjaardagen/RunBirthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Vliegtuigen/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Vliegtuigen/PlaneType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Vliegtuigen/TestPlanes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Winkelmandje/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Winkelmandje/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Winkelmandje/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Winkelmandje/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Winkelmandje/OrderLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week10/src/Winkelmandje/ShoppingBasket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +39,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +61,9 @@
     &quot;accountId&quot;: &quot;d7f6aa76-fe5d-429a-ad5c-cb9a6ffc309c&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-24.0.2+12-54/lib/src.zip!/java.base/java/lang/IndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -97,6 +117,8 @@
     "Application.Palindroom.executor": "Run",
     "Application.Ramadan.executor": "Run",
     "Application.Reeksen.executor": "Run",
+    "Application.RunBirthday.executor": "Run",
+    "Application.Runner.executor": "Run",
     "Application.Sinus.executor": "Run",
     "Application.Sommeren.executor": "Run",
     "Application.SommerenUitbreiding.executor": "Run",
@@ -106,6 +128,7 @@
     "Application.Test.executor": "Run",
     "Application.Test1.executor": "Run",
     "Application.Test2.executor": "Run",
+    "Application.TestActor.executor": "Run",
     "Application.TestAnimals.executor": "Run",
     "Application.TestContacts.executor": "Run",
     "Application.TestEmployees.executor": "Run",
@@ -113,8 +136,11 @@
     "Application.TestFarm.executor": "Run",
     "Application.TestGetallenZoeken.executor": "Run",
     "Application.TestLaptops.executor": "Run",
+    "Application.TestLotto.executor": "Run",
     "Application.TestMembers.executor": "Run",
     "Application.TestMovieCollection.executor": "Run",
+    "Application.TestPlanes.executor": "Run",
+    "Application.TestTodo.executor": "Run",
     "Application.UitdagingWeek3.executor": "Run",
     "Application.Unicode.executor": "Run",
     "Application.Vakantie.executor": "Run",
@@ -152,11 +178,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/aless/IdeaProjects/java-learning/AdventOfCode/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/aless/IdeaProjects/java-learning/week10/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -175,7 +201,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -277,7 +302,8 @@
       <workItem from="1764919755432" duration="7035000" />
       <workItem from="1765131546137" duration="2216000" />
       <workItem from="1765185053115" duration="13134000" />
-      <workItem from="1765269025876" duration="3900000" />
+      <workItem from="1765269025876" duration="11420000" />
+      <workItem from="1765377316753" duration="321000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
