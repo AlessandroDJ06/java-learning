@@ -1,5 +1,7 @@
 package Winkelmandje;
 
+import java.util.Objects;
+
 public class OrderLine {
     private Item item;
     private int amount;
@@ -23,6 +25,17 @@ public class OrderLine {
 
     public void incrementAmount(){
         amount++;
+    }
+
+    @Override
+    public boolean equals(Object object) {
+        if (!(object instanceof OrderLine orderLine)) return false;
+        return Objects.equals(getItem(), orderLine.getItem());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getItem());
     }
 
     @Override

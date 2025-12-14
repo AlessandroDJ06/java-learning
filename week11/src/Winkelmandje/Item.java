@@ -1,6 +1,8 @@
 package Winkelmandje;
 
-abstract class Item{
+import java.util.Objects;
+
+abstract class Item {
     private String id;
     private double price;
 
@@ -16,4 +18,19 @@ abstract class Item{
     public double getPrice() {
         return price;
     }
+
+    @Override
+    public boolean equals(Object object) {
+        if (!(object instanceof Item item)) return false;
+        return Double.compare(getPrice(), item.getPrice()) == 0 && Objects.equals(getId(), item.getId());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getId(), getPrice());
+    }
+
+    public abstract String getTitle();
+
+
 }

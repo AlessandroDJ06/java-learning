@@ -15,7 +15,7 @@ public class Movie extends Item{
         this.actors = new ArrayList<>();
         this.actors.add(actor);
     }
-
+    @Override
     public String getTitle() {
         return title;
     }

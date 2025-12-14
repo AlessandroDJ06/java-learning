@@ -15,7 +15,7 @@ public class Book extends Item{
         this.authors = new ArrayList<>();
         this.authors.add(author);
     }
-
+    @Override
     public String getTitle() {
         return title;
     }
@@ -54,4 +54,6 @@ public class Book extends Item{
     public int hashCode() {
         return Objects.hash(getTitle(), getAuthors());
     }
+
+
 }

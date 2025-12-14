@@ -11,10 +11,23 @@ public class Main {
         basket.addItem(book);
         basket.addItem(book);
         basket.addItem(movie);
-        System.out.println("winkelmandje:\n" + basket);
+        System.out.println("winkelmandje volgens id:");
+        System.out.printf("%8s%40s%8s%6s\n", "nummer", "beschrijving", "aantal", "totaal");
+        for (OrderLine orderLine : basket.itemsSortedById()) {
+            System.out.println(orderLine);
+        }
         System.out.println("TOTAAL: " + basket.getPrice());
-        basket.removeItem(book);
-        System.out.println("\nwinkelmandje na verwijderen:\n" + basket);
+        System.out.println("winkelmandje volgens naam:");
+        System.out.printf("%8s%40s%8s%6s\n", "nummer", "beschrijving", "aantal", "totaal");
+        for (OrderLine orderLine : basket.itemsSortedByName()) {
+            System.out.println(orderLine);
+        }
+        System.out.println("TOTAAL: " + basket.getPrice());
+        System.out.println("winkelmandje volgens prijs:");
+        System.out.printf("%8s%40s%8s%6s\n", "nummer", "beschrijving", "aantal", "totaal");
+        for (OrderLine artikelLijn : basket.itemsSortedByPrice()) {
+            System.out.println(artikelLijn);
+        }
         System.out.println("TOTAAL: " + basket.getPrice());
     }
 }
