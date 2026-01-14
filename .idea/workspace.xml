@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week6">
-      <change afterPath="$PROJECT_DIR$/week11/src/Databank/Huisarts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Databank/Huisartsen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Databank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Databank/Patiënt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Databank/Patiënten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Dubbels/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Dubbels/Dubbels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Dubbels/TestDubbels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/F1MENTIONED/F1Pilot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/F1MENTIONED/F1Pilots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/F1MENTIONED/RunF1Pilots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Winkelmandje/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Winkelmandje/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Winkelmandje/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Winkelmandje/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Winkelmandje/OrderLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Winkelmandje/ShoppingBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Woordenboek/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Woordenboek/DictionaryCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/src/Woordenboek/TestDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proefexamen/src/Lading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proefexamen/src/Pakket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -73,120 +55,120 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Asciitabel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Asciitabel_uitbreiding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Auto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AutoCorrectVervolg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Autocorrect.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BMIv2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicCalculatorAWT.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Belasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BierVat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bioritme.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BlackJack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Btw.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calorieen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cool3DCube.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cowsay.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cube3D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoBankAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dobbelsteen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GetallenFormatteren.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld3D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld3DRealistic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Investeringen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Korting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lamp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Leeftijd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Middelste.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NorthPoleSafe.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NorthPoleSafeSecond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Oefening1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Oefening2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Opwarmertje.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindroom.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ramadan.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reeksen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunBirthday.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunF1Pilots.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Runner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sinus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sommeren.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SommerenUitbreiding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpelenMetStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StartToRun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Statistiek.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestActor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestAnimals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestContacts.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestDictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestDubbels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestEmployees.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestExam.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestFarm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestGetallenZoeken.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestLaptops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestLotto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestMembers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestMovieCollection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestPlanes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestTodo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UitdagingWeek3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unicode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Vakantie.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VanRechtsNaarLinks.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Verbruik.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Vermenigvuldiging.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VrijdagDeDertiende.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Wachtwoorden.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Wapenstilstand.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WoordLengtes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bankcalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bibliotheek.executor&quot;: &quot;Run&quot;,
-    &quot;Application.defAuto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.getallenFormatteren.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gpttest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kassa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.player.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tafels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tafels2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aless/IdeaProjects/java-learning/week11/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aless/IdeaProjects/java-learning/week11/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Asciitabel.executor": "Run",
+    "Application.Asciitabel_uitbreiding.executor": "Run",
+    "Application.Auto.executor": "Run",
+    "Application.AutoCorrectVervolg.executor": "Run",
+    "Application.Autocorrect.executor": "Run",
+    "Application.BMIv2.executor": "Run",
+    "Application.BasicCalculatorAWT.executor": "Run",
+    "Application.Belasting.executor": "Run",
+    "Application.BierVat.executor": "Run",
+    "Application.Bioritme.executor": "Run",
+    "Application.BlackJack.executor": "Run",
+    "Application.Btw.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Calorieen.executor": "Run",
+    "Application.Cool3DCube.executor": "Run",
+    "Application.Cowsay.executor": "Run",
+    "Application.Cube3D.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DemoBankAccount.executor": "Run",
+    "Application.Dobbelsteen.executor": "Run",
+    "Application.GetallenFormatteren.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HelloWorld3D.executor": "Run",
+    "Application.HelloWorld3DRealistic.executor": "Run",
+    "Application.Investeringen.executor": "Run",
+    "Application.Korting.executor": "Run",
+    "Application.Lamp.executor": "Run",
+    "Application.Leeftijd.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Matrix.executor": "Run",
+    "Application.Middelste.executor": "Run",
+    "Application.NorthPoleSafe.executor": "Run",
+    "Application.NorthPoleSafeSecond.executor": "Run",
+    "Application.Oefening1.executor": "Run",
+    "Application.Oefening2.executor": "Run",
+    "Application.Opwarmertje.executor": "Run",
+    "Application.Palindroom.executor": "Run",
+    "Application.Ramadan.executor": "Run",
+    "Application.Reeksen.executor": "Run",
+    "Application.RunBirthday.executor": "Run",
+    "Application.RunF1Pilots.executor": "Run",
+    "Application.Runner.executor": "Run",
+    "Application.Sinus.executor": "Run",
+    "Application.Sommeren.executor": "Run",
+    "Application.SommerenUitbreiding.executor": "Run",
+    "Application.SpelenMetStrings.executor": "Run",
+    "Application.StartToRun.executor": "Run",
+    "Application.Statistiek.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.TestActor.executor": "Run",
+    "Application.TestAnimals.executor": "Run",
+    "Application.TestContacts.executor": "Run",
+    "Application.TestDictionary.executor": "Run",
+    "Application.TestDubbels.executor": "Run",
+    "Application.TestEmployees.executor": "Run",
+    "Application.TestExam.executor": "Run",
+    "Application.TestFarm.executor": "Run",
+    "Application.TestGetallenZoeken.executor": "Run",
+    "Application.TestLaptops.executor": "Run",
+    "Application.TestLotto.executor": "Run",
+    "Application.TestMembers.executor": "Run",
+    "Application.TestMovieCollection.executor": "Run",
+    "Application.TestPlanes.executor": "Run",
+    "Application.TestTodo.executor": "Run",
+    "Application.UitdagingWeek3.executor": "Run",
+    "Application.Unicode.executor": "Run",
+    "Application.Vakantie.executor": "Run",
+    "Application.VanRechtsNaarLinks.executor": "Run",
+    "Application.Verbruik.executor": "Run",
+    "Application.Vermenigvuldiging.executor": "Run",
+    "Application.VrijdagDeDertiende.executor": "Run",
+    "Application.Wachtwoorden.executor": "Run",
+    "Application.Wapenstilstand.executor": "Run",
+    "Application.WoordLengtes.executor": "Run",
+    "Application.bankcalculator.executor": "Run",
+    "Application.bibliotheek.executor": "Run",
+    "Application.defAuto.executor": "Run",
+    "Application.getallenFormatteren.executor": "Run",
+    "Application.gpttest.executor": "Run",
+    "Application.kassa.executor": "Run",
+    "Application.player.executor": "Run",
+    "Application.tafels.executor": "Run",
+    "Application.tafels2.executor": "Run",
+    "Application.test.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aless/IdeaProjects/java-learning/week11/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/aless/IdeaProjects/java-learning/proefexamen/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aless\IdeaProjects\java-learning\week11\src" />
@@ -309,7 +291,12 @@
       <workItem from="1765377316753" duration="321000" />
       <workItem from="1765662268356" duration="7000" />
       <workItem from="1765662328763" duration="11029000" />
-      <workItem from="1765730972869" duration="6903000" />
+      <workItem from="1765730972869" duration="7778000" />
+      <workItem from="1765914261537" duration="15000" />
+      <workItem from="1766131211359" duration="2582000" />
+      <workItem from="1766238011143" duration="3559000" />
+      <workItem from="1767641342877" duration="825000" />
+      <workItem from="1768385091462" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -538,6 +525,11 @@
           <url>file://$PROJECT_DIR$/week9/src/Dierenrijk/Animals.java</url>
           <line>24</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/week10/src/Acteur/Actor.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/week8/src/printer/PrimitiveObject.java</url>
