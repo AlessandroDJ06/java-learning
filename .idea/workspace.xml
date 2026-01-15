@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="[proefexamen][xml] changes">
-      <change afterPath="$PROJECT_DIR$/oefeningen compareable/oefeningen compareable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening1/Gamer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening1/GamerComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="[comparable][oefening1] afgemaakt">
+      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening2/ProductComperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -300,7 +298,7 @@
       <workItem from="1767641342877" duration="825000" />
       <workItem from="1768385091462" duration="614000" />
       <workItem from="1768406572322" duration="9877000" />
-      <workItem from="1768495810027" duration="897000" />
+      <workItem from="1768495810027" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -526,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768487436580</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="[comparable][oefening1] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768496774772</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1768496774772</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +571,8 @@
     <MESSAGE value="[proefexamen][transporteur interface] afgemaakt" />
     <MESSAGE value="[proefexamen][Vrachtwagen class] afgemaakt" />
     <MESSAGE value="[proefexamen][xml] changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="[proefexamen][xml] changes" />
+    <MESSAGE value="[comparable][oefening1] afgemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="[comparable][oefening1] afgemaakt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
