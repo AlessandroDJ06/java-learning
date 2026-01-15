@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="week6">
-      <change afterPath="$PROJECT_DIR$/proefexamen/src/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proefexamen/src/DistributieCentrum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proefexamen/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proefexamen/src/Transporteur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proefexamen/src/Vrachtwagen.java" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="[proefexamen][xml] changes">
+      <change afterPath="$PROJECT_DIR$/oefeningen compareable/oefeningen compareable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening1/Gamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening1/GamerComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Documenten/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proefexamen/src/Lading.java" beforeDir="false" afterPath="$PROJECT_DIR$/proefexamen/src/Lading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proefexamen/src/Pakket.java" beforeDir="false" afterPath="$PROJECT_DIR$/proefexamen/src/Pakket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +163,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aless/IdeaProjects/java-learning/proefexamen/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aless/IdeaProjects/java-learning/oefeningen compareable/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -304,7 +299,8 @@
       <workItem from="1766238011143" duration="3559000" />
       <workItem from="1767641342877" duration="825000" />
       <workItem from="1768385091462" duration="614000" />
-      <workItem from="1768406572322" duration="7346000" />
+      <workItem from="1768406572322" duration="9877000" />
+      <workItem from="1768495810027" duration="897000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -458,7 +454,79 @@
       <option name="project" value="LOCAL" />
       <updated>1762888686699</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[proefexamen][container class] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768487223629</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487223629</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[proefexamen][distributiecentrum class] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768487247118</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487247118</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[proefexamen][lading abstract class] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768487269463</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487269463</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[proefexamen][main class] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768487290936</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487290936</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[proefexamen][pakket class] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768487358939</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487358939</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[proefexamen][transporteur interface] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768487378938</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487378938</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[proefexamen][Vrachtwagen class] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768487400976</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487400976</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[proefexamen][xml] changes">
+      <option name="closed" value="true" />
+      <created>1768487424125</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487424125</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[proefexamen][xml] changes">
+      <option name="closed" value="true" />
+      <created>1768487436580</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1768487436580</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,7 +557,15 @@
     <MESSAGE value="week6 oefeningen" />
     <MESSAGE value="week5 laatste oefening" />
     <MESSAGE value="week6" />
-    <option name="LAST_COMMIT_MESSAGE" value="week6" />
+    <MESSAGE value="[proefexamen][container class] afgemaakt" />
+    <MESSAGE value="[proefexamen][distributiecentrum class] afgemaakt" />
+    <MESSAGE value="[proefexamen][lading abstract class] afgemaakt" />
+    <MESSAGE value="[proefexamen][main class] afgemaakt" />
+    <MESSAGE value="[proefexamen][pakket class] afgemaakt" />
+    <MESSAGE value="[proefexamen][transporteur interface] afgemaakt" />
+    <MESSAGE value="[proefexamen][Vrachtwagen class] afgemaakt" />
+    <MESSAGE value="[proefexamen][xml] changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="[proefexamen][xml] changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
