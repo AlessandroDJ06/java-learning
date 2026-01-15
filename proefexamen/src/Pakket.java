@@ -8,5 +8,11 @@ public class Pakket extends Lading{
         this.isBreekbaar = isBreekbaar;
     }
 
+    public double getTotaleMassa(){
+        return super.getBasisGewicht();
+    }
 
+    public String toString(){
+        return super.toString() + ((this.isBreekbaar)? ", breekbaar":" , niet breekbaar");
+    }
 }
