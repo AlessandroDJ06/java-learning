@@ -1,7 +1,7 @@
 package Werknemers;
 
 abstract class Employee {
-    private final double HOURLY_WAGES = 12.5;
+    protected static final double HOURLY_WAGES = 12.5;
     private String name;
     private long nationalNumber;
 

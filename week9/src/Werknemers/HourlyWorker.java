@@ -18,7 +18,7 @@ public class HourlyWorker extends Employee{
         if (hours > MAX_HOURS_PER_WEEK){
             return ((hours - MAX_HOURS_PER_WEEK)*(1.5*getHOURLY_WAGES())) + (MAX_HOURS_PER_WEEK*(1.5*getHOURLY_WAGES()));
         } else {
-            return hours*(1.5*getHOURLY_WAGES());
+            return hours*(1.5*HOURLY_WAGES);
         }
     }
 

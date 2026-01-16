@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="[comparable][oefening2] afgemaakt">
-      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening3/StudentComperatorAchternaam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oefeningen compareable/src/oefening3/StudentComperatorVoornaam.java" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="[comparable][oefening3] afgemaakt">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9/src/Werknemers/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Werknemers/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week9/src/Werknemers/HourlyWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/week9/src/Werknemers/HourlyWorker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -299,7 +298,15 @@
       <workItem from="1767641342877" duration="825000" />
       <workItem from="1768385091462" duration="614000" />
       <workItem from="1768406572322" duration="9877000" />
-      <workItem from="1768495810027" duration="3353000" />
+      <workItem from="1768495810027" duration="4026000" />
+      <workItem from="1768518643023" duration="1016000" />
+      <workItem from="1768548660300" duration="207000" />
+      <workItem from="1768550836279" duration="35000" />
+      <workItem from="1768552498624" duration="16000" />
+      <workItem from="1768552562038" duration="29000" />
+      <workItem from="1768553106330" duration="32000" />
+      <workItem from="1768554823344" duration="52000" />
+      <workItem from="1768554898487" duration="94000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -541,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768497578856</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="[comparable][oefening3] afgemaakt">
+      <option name="closed" value="true" />
+      <created>1768499216272</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1768499216272</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +597,8 @@
     <MESSAGE value="[proefexamen][xml] changes" />
     <MESSAGE value="[comparable][oefening1] afgemaakt" />
     <MESSAGE value="[comparable][oefening2] afgemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="[comparable][oefening2] afgemaakt" />
+    <MESSAGE value="[comparable][oefening3] afgemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="[comparable][oefening3] afgemaakt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
