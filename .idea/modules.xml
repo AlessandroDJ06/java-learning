@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdventOfCode/AdventOfCode.iml" filepath="$PROJECT_DIR$/AdventOfCode/AdventOfCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documenten.iml" filepath="$PROJECT_DIR$/Documenten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathFindingAlgorithms/PathFindingAlgorithms.iml" filepath="$PROJECT_DIR$/PathFindingAlgorithms/PathFindingAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/examen/examen.iml" filepath="$PROJECT_DIR$/examen/examen.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesOefeningen/lesOefeningen.iml" filepath="$PROJECT_DIR$/lesOefeningen/lesOefeningen.iml" />
       <module fileurl="file://$PROJECT_DIR$/oefeningen compareable/oefeningen compareable.iml" filepath="$PROJECT_DIR$/oefeningen compareable/oefeningen compareable.iml" />
