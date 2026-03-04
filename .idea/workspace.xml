@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="[comparable][oefening3] afgemaakt">
-      <change afterPath="$PROJECT_DIR$/PathFindingAlgorithms/PathFindingAlgorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PathFindingAlgorithms/src/DijkstraTestData.java" afterDir="false" />
+    <list default="true" id="9eda2901-4d67-4800-8581-22b34d594e92" name="Changes" comment="[PathFindingAlgorithms] learning path finding">
+      <change afterPath="$PROJECT_DIR$/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PathFindingAlgorithms/src/DijkstraExperiment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -156,7 +157,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/aless/IdeaProjects/java-learning/week11/src",
+    "last_opened_file_path": "C:/Users/aless/IdeaProjects/java-learning",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -308,7 +309,10 @@
       <workItem from="1768553106330" duration="32000" />
       <workItem from="1768554823344" duration="52000" />
       <workItem from="1768554898487" duration="94000" />
-      <workItem from="1770761396926" duration="2520000" />
+      <workItem from="1770761396926" duration="4183000" />
+      <workItem from="1770798308523" duration="2224000" />
+      <workItem from="1770807997296" duration="669000" />
+      <workItem from="1772625119615" duration="761000" />
     </task>
     <task id="LOCAL-00001" summary="week1 oefeningen deel1">
       <option name="closed" value="true" />
@@ -558,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768499216272</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="[PathFindingAlgorithms] learning path finding">
+      <option name="closed" value="true" />
+      <created>1770763969936</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1770763969936</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,7 +612,8 @@
     <MESSAGE value="[comparable][oefening1] afgemaakt" />
     <MESSAGE value="[comparable][oefening2] afgemaakt" />
     <MESSAGE value="[comparable][oefening3] afgemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="[comparable][oefening3] afgemaakt" />
+    <MESSAGE value="[PathFindingAlgorithms] learning path finding" />
+    <option name="LAST_COMMIT_MESSAGE" value="[PathFindingAlgorithms] learning path finding" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
